@@ -174,7 +174,7 @@
 		top: 85% !important;
 	}
 	.carousel-indicators li{
-		background-color: rgb(68, 0, 100);
+		background-color: #ffc107;
 	}
 
 	.btn-carousel{
@@ -184,8 +184,22 @@
 /* Itens 
 -------------------------------------------------- */
 	.product-device:hover{
-		background-image: linear-gradient( to top, rgb(0, 88, 100), rgba(0, 32, 100, 0.438));
+		background-image: linear-gradient( to top, rgb(0, 88, 100), rgba(6, 253, 241, 0.438));
+		fill: #fc7ee1;
 	}
+	
+	.icoserv{
+		background-image: url(/img/svg/boat.svg);
+		background-repeat: no-repeat;
+		justify-content: center;
+		width: auto;
+		height: auto;
+		border-radius: 50px;
+	}
+	.icoserv:hover{
+		background-image: url(/img/svg/boat1.svg);
+	}
+
 	.product-device{
 		justify-content: center;
 		width: auto;
