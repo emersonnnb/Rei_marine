@@ -1,5 +1,4 @@
 <?php
-
 // Item do menu ativo
 $menu = (isset($page)) ? $page : 'index';
 ?>
