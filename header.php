@@ -25,16 +25,16 @@ $menu = (isset($page)) ? $page : 'index';
         <div class="mynav collapse navbar-collapse justify-content-md-end" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item ">
-                    <a class="nav-link <?php echo ($menu == 'sobre') ? 'class="active"' : null; ?>" href="sobre.php">Sobre</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link <?php echo ($menu == 'servicos') ? 'class="active"' : null; ?>" href="servicos.php">Serviços</a>
+                    <a class="nav-link <?php echo ($menu == 'sobre') ? 'active' : null; ?>" href="sobre.php">Sobre</a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link <?php echo ($menu == 'clientes') ? 'class="active"' : null; ?>" href="clientes.php">Clientes</a>
+                    <a class="nav-link <?php echo ($menu == 'servicos') ? 'active' : null; ?>" href="servicos.php">Serviços</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link <?php echo ($menu == 'contatos') ? 'class="active"' : null; ?>" href="contatos.php">Contato</a>
+                <li class="nav-item ">
+                    <a class="nav-link <?php echo ($menu == 'clientes') ? 'active' : null; ?>" href="clientes.php">Clientes</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link <?php echo ($menu == 'contatos') ? 'active' : null; ?>" href="contatos.php">Contato</a>
                 </li>
             </ul>
         </div>

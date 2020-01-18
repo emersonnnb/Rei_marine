@@ -115,7 +115,7 @@ body {
 }
 
 
-/* Botões
+/* Botï¿½es
 -------------------------------------------- */
 
 .mynav ul {
@@ -365,4 +365,9 @@ body {
     box-shadow: 10px 10px 15px rgba(73, 78, 92, 0.1);
     background: #fff;
     transition: 0.4s;
+}
+
+.active{
+
+    color: #ffc107 !important;
 }
