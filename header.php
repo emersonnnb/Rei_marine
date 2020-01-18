@@ -2,8 +2,9 @@
 
 // Item do menu ativo
 $menu = (isset($page)) ? $page : 'index';
+?>
 
-<!doctype html>
+<!doctype php>
 <html lang="en">
 
 <head>
@@ -24,16 +25,16 @@ $menu = (isset($page)) ? $page : 'index';
         <div class="mynav collapse navbar-collapse justify-content-md-end" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item ">
-                    <a class="nav-link <?php echo ($menu == 'sobre') ? 'class="active"' : null; ?> href="/"><i class="fas fa-home">" href="sobre.php">Sobre</a>
+                    <a class="nav-link <?php echo ($menu == 'sobre') ? 'class="active"' : null; ?>" href="sobre.php">Sobre</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?php echo ($menu == 'servicos') ? 'class="active"' : null; ?> href="/"><i class="fas fa-home">" href="servicos.php">Serviços</a>
+                    <a class="nav-link <?php echo ($menu == 'servicos') ? 'class="active"' : null; ?>" href="servicos.php">Serviços</a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link <?php echo ($menu == 'cliente') ? 'class="active"' : null; ?> href="/"><i class="fas fa-home">" href="cliente.php">Clientes</a>
+                    <a class="nav-link <?php echo ($menu == 'clientes') ? 'class="active"' : null; ?>" href="clientes.php">Clientes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?php echo ($menu == 'contato') ? 'class="active"' : null; ?> href="/"><i class="fas fa-home">" href="contato.php">Contato</a>
+                    <a class="nav-link <?php echo ($menu == 'contatos') ? 'class="active"' : null; ?>" href="contatos.php">Contato</a>
                 </li>
             </ul>
         </div>
