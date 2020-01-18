@@ -1,6 +1,6 @@
 <?php
 $css = '/css/style.css';
-$page = 'cliente';
+$page = 'clientes';
 require('header.php');
 ?>
 
