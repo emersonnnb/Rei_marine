@@ -18,7 +18,7 @@ $menu = (isset($page)) ? $page : 'index';
     <div class="container" <a class="navbar-brand" href="#">
         <img src="img/logo.png" width="70" height="70" alt="">
         </a>
-        <a class="navbar-brand" href="index.php">REI MARINE</a>
+        <a class="navbar-brand pl-2" href="index.php">REI MARINE</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
