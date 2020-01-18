@@ -1,6 +1,6 @@
 <?php
 $css = '/css/index.css';
-$page = 'contato';
+$page = 'contatos';
 require('header.php');
 ?>
 <header class="cliente" style="background-image:url('img/banner/contato1.png')">
