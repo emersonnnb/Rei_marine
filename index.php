@@ -27,10 +27,13 @@ require('header.php');
             <img src="img/banner/banner3.1.jpg" class="carousel-filter" alt="" />
             <div class="container">
                 <div class="carousel-caption text-left">
-                    <h1 class='text-dark'>01 de Fevereiro</h1>
-                    <p class='text-dark'>Pescaria dos Graudos
-                        <br /> R$: 150,00 p/ pessoa<br /> *Valor Inclui Gelo e Carvão
-                    </p>
+                    <h1 class="text-dark featurette-heading empresacolor">01 de Fevereiro
+                    <br />Pescaria dos Graudos
+                    <br />
+                    R$: 150,00 p/ pessoa
+                    <br />
+                    Valor Inclui Gelo e Carvão</h1>
+                    <br />
                     <p><a class="btn btn-lg btn-warning" href="#" role="button">Saiba Mais <img src="img/svg/whatsapp1.svg" alt="" width="25"></a></p>
                 </div>
             </div>
@@ -43,8 +46,12 @@ require('header.php');
             <img src="img/banner/banner2.jpg" class="carousel-filter" alt="" />
             <div class="container">
                 <div class="carousel-caption">
-                    <h1 class='text-dark'> Mergulho em Família.</h1>
-                    <p class='text-dark'>Seguro, divertido e inesquecivel. Reserve seu passei em família.</p>
+                    <h1 class="text-dark featurette-heading empresacolor">Mergulho em Família
+                    <br />
+                    Seguro, divertido e inesquecivel.
+                    <br />
+                    Reserve seu passei em família</h1>
+                    <br />                    
                     <p><a class="btn btn-lg btn-warning" href="#" role="button">Saiba Mais <img src="img/svg/whatsapp1.svg" alt="" width="25"></a></p>
                 </div>
             </div>
@@ -57,7 +64,8 @@ require('header.php');
             <img src="img/banner/banner1.jpg" class="carousel-filter" alt="" />
             <div class="container">
                 <div class="carousel-caption text-right">
-                    <h1 class='text-dark'>Viage com Conforto e Segurança.</h1>
+                    <h1 class="text-dark featurette-heading empresacolor">Viage com Conforto e Segurança.</h1>
+                    <br />
                     <p><a class="btn btn-lg btn-warning" href="#" role="button">Saiba Mais <img src="img/svg/whatsapp1.svg" alt="" width="25"></a></p>
                 </div>
             </div>
