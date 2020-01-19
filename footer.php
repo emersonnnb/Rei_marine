@@ -45,7 +45,7 @@
                     <div class="col-12 d-block d-sm-none">
                         <h1 class="h3">Contato Comercial</h1>
                         contato@empresa.com.br<br> (21) 0000-0000<br> (21) 99999-9999<br>
-                        <img src="img/svg/facebook.svg" alt="" class="redesocial">
+                        <img src="img/svg/facebook.svg"  alt="" class="redesocial">
                         <img src="img/svg/instagram.svg" alt="" class="redesocial">
                         <img src="img/svg/twitter.svg" alt="" class="redesocial">
                         <img src="img/svg/youtube.svg" alt="" class="redesocial">

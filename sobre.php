@@ -24,13 +24,13 @@ require('header.php');
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4 align-self-center">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
+        <div class="col-md-6 align-self-center text-justify">
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
         </div>
-        <div class="col-md-8 align-self-center">
-            <img src="img/sobre/sobre1.jpg" alt="" class="img-fluid" />
+        <div class="col-md-6 align-self-center text-right">
+            <img src="img/logo.png" alt="" class="img-fluid" />
         </div>
     </div>
 
@@ -75,8 +75,8 @@ require('header.php');
     <hr class="featurette-divider">
 
     <div class="row featurette">
-        <div class="col-md-7">
-            <h2 class="featurette-heading m-0">Conheça Nossa <span class="text-muted">Equipe</span></h2>
+        <div class="col-md-7 text-justify">
+            <h2 class="featurette-heading m-0 pb-4">Conheça Nossa <span class="text-muted">Equipe</span></h2>
             <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem ratione perspiciatis voluptatibus maxime cupiditate, necessitatibus enim perferendis quam omnis sit, debitis culpa praesentium! Praesentium eligendi repellat est nihil, provident molestias!</p>
             <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem ratione perspiciatis voluptatibus maxime cupiditate, necessitatibus enim perferendis quam omnis sit, debitis culpa praesentium! Praesentium eligendi repellat est nihil, provident molestias!</p>
         </div>
@@ -85,11 +85,11 @@ require('header.php');
         </div>
     </div>
 </div>
-<header class="empresa" style="background-image:url('img/sobre/banner.jpg')">
+<header class="empresa" style="background-image:url('img/sobre/banner.jpg');">
     <div class="container jun">
-        <h1 class="empresah1">Exergamos o seu negócio como algo <span class="empresacolor"> único </span></h1>
+        <h1 class="empresah1">Tratamos você cliente como <span class="empresacolor"> único </span></h1>
         <div class="breadcrumbs" typeof="BreadcrumbList" vocab="http://schema.org/">
-            <span property="itemListElement" typeof="ListItem" class="empresacolor"><span property="name">e por isso adequamos nossos serviços a sua necessidade.</span>
+            <span property="itemListElement" typeof="ListItem" class="empresacolor"><span property="name">e por isso preparamos um atendimento especial para você.</span>
                 <meta property="position" content="2"></span>
         </div>
     </div> <!-- .container -->

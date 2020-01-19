@@ -41,7 +41,4 @@ $menu = (isset($page)) ? $page : 'index';
 </nav>
 
 <body>
-
-
-
     <main role="main" class="">
