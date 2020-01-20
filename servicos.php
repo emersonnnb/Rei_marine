@@ -32,59 +32,86 @@ require('header.php');
 
     <div class="col-lg-6">
       <div class="box ">
-        <h4 class="servicostopicos m-0 mb-3">Gestão do Negócio</h4>
-        <p class="description">Por meio do planejamento estratégico, defina uma visão de futuro para sua empresa e estabeleça metas e objetivos estratégicos que possibilitem sua permanência no mercado e a melhoria dos resultados.</p>
+        <div class="row pb-3">
+          <div class="col-sm-3 text-right">
+            <img src="img/svg/fish.svg" alt="" class="" width="50">
+          </div>
+          <div class="col-sm-9 text-center">
+            <h4 class="servicostopicos m-0 mb-3">Pescaria Avulsa</h4>
+          </div>
+        </div>
+        <div class="row">
+          <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
+        </div>
+        <div class="row justify-content-md-end">
+          <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
+        </div>
       </div>
     </div>
+
 
     <div class="col-lg-6">
       <div class="box ">
-        <h4 class="servicostopicos m-0 mb-3">Gestão Comercial</h4>
-        <p class="description">Fortaleça sua área comercial através da definição de políticas e estratégias de vendas. Entenda melhor os seus custos para uma adequada formação de preços de seus produtos e serviços.</p>
+        <div class="row pb-3">
+          <div class="col-sm-3 text-right">
+            <img src="img/svg/island-with-palm-trees.svg" alt="" class="" width="50">
+          </div>
+          <div class="col-sm-9 text-center">
+            <h4 class="servicostopicos m-0 mb-3">Passeis Turisticos</h4>
+          </div>
+        </div>
+        <div class="row">
+          <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
+        </div>
+        <div class="row justify-content-md-end">
+          <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
+        </div>
       </div>
+
     </div>
 
     <div class="col-lg-6">
+
       <div class="box ">
-        <h4 class="servicostopicos m-0 mb-3">Gestão Estratégica de Frota</h4>
-        <p class="description">Através da correta gestão de frota, melhore resultados e obtenha gastos menores com aumento da vida útil da frota, com amplos benefícios para empresa.</p>
+        <div class="row pb-3">
+          <div class="col-sm-3 text-right">
+            <img src="img/svg/boat.svg" alt="" class="" width="50">
+          </div>
+          <div class="col-sm-9 text-center">
+            <h4 class="servicostopicos m-0 mb-3">Aluguel de Barcos</h4>
+          </div>
+        </div>
+        <div class="row">
+          <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
+        </div>
+        <div class="row justify-content-md-end">
+          <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
+        </div>
       </div>
+
     </div>
 
     <div class="col-lg-6">
+
       <div class="box ">
-        <h4 class="servicostopicos m-0 mb-3">Gestão Financeira</h4>
-        <p class="description">Controle os resultados financeiros de sua empresa, avalie sua situação e realize um planejamento visando sua sustentabilidade e lucratividade.</p>
+        <div class="row pb-3">
+          <div class="col-sm-3 text-right">
+            <img src="img/svg/group.svg" alt="" class="" width="50">
+          </div>
+          <div class="col-sm-9 text-center">
+            <h4 class="servicostopicos m-0 mb-3">Festas e Eventos</h4>
+          </div>
+        </div>
+        <div class="row">
+          <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
+        </div>
+        <div class="row justify-content-md-end">
+          <p class=""><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
+        </div>
       </div>
+
     </div>
 
-    <div class="col-lg-6">
-      <div class="box ">
-        <h4 class="servicostopicos m-0 mb-3">Gestão Logistica</h4>
-        <p class="description">Otimize os resultados através da correta gestão logística com amplos benefícios para empresa.</p>
-      </div>
-    </div>
-
-    <div class="col-lg-6">
-      <div class="box ">
-        <h4 class="servicostopicos m-0 mb-3">Avaliação da Empresa</h4>
-        <p class="description">Realize completa assessoria para projetos de fusões e aquisições, venda da empresa ou dissolução societária.</p>
-      </div>
-    </div>
-
-    <div class="col-lg-6">
-      <div class="box ">
-        <h4 class="servicostopicos m-0 mb-3">Análise Operacional</h4>
-        <p class="description">Avalie os atuais processos operacionais de sua empresa, visando o realinhamento e a melhoria das premissas operacionais.</p>
-      </div>
-    </div>
-
-    <div class="col-lg-6">
-      <div class="box">
-        <h4 class="servicostopicos m-0 mb-3">Marketing e Gestão da Marca</h4>
-        <p class="description">Obtenha apoio para explorar de forma assertiva os canais de comunicação, atingir metas de vendas ou, ainda, construir um marketing para sua empresa.</p>
-      </div>
-    </div>
   </div>
 </div>
 <?php

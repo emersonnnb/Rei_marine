@@ -111,7 +111,7 @@ require('header.php');
                 <img src="img/svg/boat1.svg" class="product-device w-50 p-4" alt="" />
                 <h2 class="p-2">Aluguel de<br>Barcos</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam fuga est laborum repudiandae iusto natus excepturi quae iure. Minima debitis placeat quidem dolorem sequi vel nemo. Necessitatibus eos architecto possimus.</p>
-                <p><a class="btn btn-outline-primary" href="#" role="button">Saiba Mais &raquo;</a></p>
+                <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
             </div>
             <!-- / 1º Item -->
 
@@ -119,7 +119,7 @@ require('header.php');
                             -------------------------------------->
             <div class="col-sm-3">
                 <img src="img/svg/fish1.svg" class="product-device w-50 p-4" alt="" />
-                <h2 class="p-2">Pescas<br>Avulsas </h2>
+                <h2 class="p-2">Pescaria<br>Avulsas </h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam fuga est laborum repudiandae iusto natus excepturi quae iure. Minima debitis placeat quidem dolorem sequi vel nemo. Necessitatibus eos architecto possimus.</p>
                 <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
             </div>
@@ -131,7 +131,7 @@ require('header.php');
                 <img src="img/svg/island-with-palm-trees1.svg" class="product-device w-50 p-4" alt="" />
                 <h2 class="p-2">Passeios<br>Turísticos</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam fuga est laborum repudiandae iusto natus excepturi quae iure. Minima debitis placeat quidem dolorem sequi vel nemo. Necessitatibus eos architecto possimus.</p>
-                <p><a class="btn btn-outline-warning" href="#" role="button">Saiba Mais &raquo;</a></p>
+                <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
             </div>
             <!-- / 3º Item -->
 
@@ -141,7 +141,7 @@ require('header.php');
                 <img src="img/svg/group1.svg" class="product-device w-50 p-4" alt="" />
                 <h2 class="p-2">Festas e<br>Eventos</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam fuga est laborum repudiandae iusto natus excepturi quae iure. Minima debitis placeat quidem dolorem sequi vel nemo. Necessitatibus eos architecto possimus.</p>
-                <p><a class="btn btn-outline-dark" href="#" role="button">Saiba Mais &raquo;</a></p>
+                <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
             </div>
             <!-- / 4º Item -->
         </div>
@@ -174,7 +174,7 @@ require('header.php');
             <!-- Imagem do Anuncio
                             -------------------------------------->
             <div class="col-md-5">
-                <img src="img/img3.jpeg" class="img-fluid shadow-lg" alt="" />
+                <img src="img/img3.jpeg" class="img-fluid shadow-lg img-style" alt="" />
             </div>
             <!--/ Imagem do Anuncio -->
 
@@ -199,7 +199,7 @@ require('header.php');
             <!-- Imagem do Anuncio
                             -------------------------------------->
             <div class="col-md-5 order-md-1">
-                <img src="img/img2.jpeg" class="img-fluid shadow-lg" alt="" />
+                <img src="img/img2.jpeg" class="img-fluid shadow-lg img-style" alt="" />
             </div>
             <!--/ Imagem do Anuncio -->
 
@@ -223,7 +223,7 @@ require('header.php');
             <!-- Imagem do Anuncio
                             -------------------------------------->
             <div class="col-md-5">
-                <img src="img/img1.jpeg" class="img-fluid shadow-lg" alt="" />
+                <img src="img/img1.jpeg" class="img-fluid shadow-lg img-style" alt="" />
             </div>
             <!--/ Imagem do Anuncio -->
 
