@@ -8,15 +8,6 @@ require('header.php');
             -------------------------------------->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-    <!-- Botões Inferior do Carousel
-                    -------------------------------------->
-    <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-    </ol>
-    <!-- / Botões Inferior do Carousel -->
-
     <!-- Imagens e Conteudos do Carousel
                     -------------------------------------->
     <div class="carousel-inner">
@@ -27,12 +18,10 @@ require('header.php');
             <img src="img/banner/banner3.1.jpg" class="carousel-filter" alt="" />
             <div class="container">
                 <div class="carousel-caption text-left">
-                    <h1 class="text-dark featurette-heading empresacolor">01 de Fevereiro
+                    <h1 class="text-dark featurette-heading">01 de Fevereiro
                     <br />Pescaria dos Graudos
                     <br />
-                    R$: 150,00 p/ pessoa
-                    <br />
-                    Valor Inclui Gelo e Carvão</h1>
+                    R$: 150,00 p/ pessoa</h1>
                     <br />
                     <p><a class="btn btn-lg btn-warning" href="#" role="button">Saiba Mais <img src="img/svg/whatsapp1.svg" alt="" width="25"></a></p>
                 </div>
@@ -46,11 +35,7 @@ require('header.php');
             <img src="img/banner/banner2.jpg" class="carousel-filter" alt="" />
             <div class="container">
                 <div class="carousel-caption">
-                    <h1 class="text-dark featurette-heading empresacolor">Mergulho em Família
-                    <br />
-                    Seguro, divertido e inesquecivel.
-                    <br />
-                    Reserve seu passei em família</h1>
+                    <h1 class="text-warning featurette-heading p-5">Mergulho em Família</h1>
                     <br />                    
                     <p><a class="btn btn-lg btn-warning" href="#" role="button">Saiba Mais <img src="img/svg/whatsapp1.svg" alt="" width="25"></a></p>
                 </div>
@@ -64,7 +49,7 @@ require('header.php');
             <img src="img/banner/banner1.jpg" class="carousel-filter" alt="" />
             <div class="container">
                 <div class="carousel-caption text-right">
-                    <h1 class="text-dark featurette-heading empresacolor">Viage com Conforto e Segurança.</h1>
+                    <h1 class="text-dark featurette-heading ">Viage com Conforto e Segurança.</h1>
                     <br />
                     <p><a class="btn btn-lg btn-warning" href="#" role="button">Saiba Mais <img src="img/svg/whatsapp1.svg" alt="" width="25"></a></p>
                 </div>
