@@ -43,7 +43,7 @@ require('header.php');
     <div class="row">
         <div class="col-md-8 align-self-center">
             <div class="row">
-                <h2 class="featurette-heading m-0">Ou deixe seu contato por <span class="text-muted">AQUI</span></h2>
+                <h2 class="featurette-heading m-0 ">Deixe seu contato por <span class="text-muted">AQUI</span></h2>
 
             </div>
             <hr class="featurette-divider mt-4 mb-4">
@@ -72,7 +72,7 @@ require('header.php');
                 <div class="row">
                     <div class="col-md-6 mb-3">
                     <label>Mensagem<span class="text-muted">*</span></label> <br>
-                        <textarea name="mensagem" rows="5" cols="90" required></textarea>
+                        <textarea class="form-control" name="mensagem" rows="5" cols="90" required></textarea>
                     </div>
                 </div>    
                 <hr class="mb-4">

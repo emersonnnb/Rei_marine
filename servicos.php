@@ -30,10 +30,10 @@ require('header.php');
 
   <div class="row mt-5 mb-5">
 
-    <div class="col-lg-6">
+    <div class="col-sm-6">
       <div class="box ">
         <div class="row pb-3">
-          <div class="col-sm-3 text-right">
+          <div class="col-sm-3 text-center p-3">
             <img src="img/svg/fish.svg" alt="" class="" width="50">
           </div>
           <div class="col-sm-9 text-center">
@@ -50,10 +50,10 @@ require('header.php');
     </div>
 
 
-    <div class="col-lg-6">
+    <div class="col-sm-6">
       <div class="box ">
         <div class="row pb-3">
-          <div class="col-sm-3 text-right">
+          <div class="col-sm-3 text-center p-3">
             <img src="img/svg/island-with-palm-trees.svg" alt="" class="" width="50">
           </div>
           <div class="col-sm-9 text-center">
@@ -70,11 +70,11 @@ require('header.php');
 
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-sm-6">
 
       <div class="box ">
         <div class="row pb-3">
-          <div class="col-sm-3 text-right">
+          <div class="col-sm-3 text-center p-3">
             <img src="img/svg/boat.svg" alt="" class="" width="50">
           </div>
           <div class="col-sm-9 text-center">
@@ -91,11 +91,11 @@ require('header.php');
 
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-sm-6">
 
       <div class="box ">
         <div class="row pb-3">
-          <div class="col-sm-3 text-right">
+          <div class="col-sm-3 text-center p-3">
             <img src="img/svg/group.svg" alt="" class="" width="50">
           </div>
           <div class="col-sm-9 text-center">
