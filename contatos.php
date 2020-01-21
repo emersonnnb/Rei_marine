@@ -1,5 +1,5 @@
 <?php
-$css = '/css/index.css';
+$css = '/css/contatos.css';
 $page = 'contatos';
 require('header.php');
 ?>
@@ -47,42 +47,46 @@ require('header.php');
 
             </div>
             <hr class="featurette-divider mt-4 mb-4">
-            <form method="POST">
-                <div class="row">
-                    <div class="col-md-6 mb-3">
-                        <label for="firstName">Nome</label>
-                        <input type="text" class="form-control" id="firstName" placeholder="" value="" required="">
-                    </div>
-                    <div class="col-md-6 mb-3">
-                        <label for="lastName">Último Nome</label>
-                        <input type="text" class="form-control" id="lastName" placeholder="" value="" required="">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 mb-3">
-                        <label for="email">Email <span class="text-muted">*</span></label>
-                        <input type="email" class="form-control" id="email" placeholder="seu@example.com">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 mb-3">
-                        <label for="address">Telefone</label>
-                        <input type="text" class="form-control" id="address" placeholder="(00) 00000-0000" required="">
-                    </div>
-                </div>
 
+            <form method="POST" action="enviarEmail.php">
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label>Nome<span class="text-muted">*</span></label>
+                        <input type="text" class="form-control" name="nome" placeholder="Insira seu nome aqui" required>
+                    </div>                                    
+                    <div class="col-md-6 mb-3">
+                        <label for="email">E-mail <span class="text-muted">*</span></label>
+                        <input type="email" class="form-control" name="email" id="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" placeholder="seu@example.com" required>
+                    </div>
+                </div> 
+                <div class="row">                  
+                    <div class="col-md-6 mb-3">
+                        <label for="fone">Telefone Celular<span class="text-muted">*</span></label>
+                        <input type="tel" class="form-control" maxlength="15" name="telefone" id="fone" pattern="\([0-9]{2}\)[0-9]{5}-[0-9]{4}$" placeholder="(00)00000-0000" required>
+                    </div>                
+                    <div class="col-md-6 mb-3">
+                        <label>Assunto<span class="text-muted">*</span></label>                        
+                    <input type="text" class="form-control" name="assunto" placeholder="Assunto" required>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                    <label>Mensagem<span class="text-muted">*</span></label> <br>
+                        <textarea name="mensagem" rows="5" cols="90" required></textarea>
+                    </div>
+                </div>    
                 <hr class="mb-4">
-
                 <div class="row">
                     <button class="btn-outline-purple btn-lg btn-block" type="submit">Enviar</button>
                 </div>
-            </form>
+            </form>           
         </div>
         <div class="col-md-4 align-self-center">
             <img src="img/contato/atendente.png" alt="" class="img-fluid" />
         </div>
     </div>
 </div>
+
 <?php
 require('footer.php');
 ?>
