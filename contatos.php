@@ -70,7 +70,7 @@ require('header.php');
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6 mb-3">
+                    <div class="col-md-12 mb-3">
                     <label>Mensagem<span class="text-muted">*</span></label> <br>
                         <textarea class="form-control" name="mensagem" rows="5" cols="90" required></textarea>
                     </div>
