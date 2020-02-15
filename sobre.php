@@ -25,9 +25,9 @@ require('header.php');
 <div class="container">
     <div class="row">
         <div class="col-md-6 align-self-center text-justify">
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dicta doloribus, accusantium sit totam laboriosam vitae omnis! Architecto soluta, veniam mollitia totam natus earum. Nemo omnis molestias est. Facere, quis.</p>
+            <p class="lead">Criada em 2013 a REI MARINE tem como o objetivo ser uma empresa voltada para o ramo marítimo e apoio portuário, pesca esportivas amadoras, pescaria de Parcéis e Oceânica.</p>
+            <p class="lead">No entanto com profissionalismo aos seus clientes, respeitando suas particularidades, desde então acreditamos e seguimos nesse objetivo, que se reflete na continuidade de nossas atividades com reconhecimento de nossos clientes.</p>
+            <p class="lead">A empresa situa-se em Niterói, com trabalho diferenciado e diversas vantagens no mercado atual. Afinal somos mais acessíveis, temos uma equipe treinada, qualificada, comprometida, responsável, proporcionando assim aos nossos clientes maior confiança, conforto ,segurança e lazer.</p>
         </div>
         <div class="col-md-6 align-self-center text-right">
             <img src="img/logo.png" alt="" class="img-fluid" />
@@ -45,7 +45,10 @@ require('header.php');
                 <img src="img/svg/missao.svg" alt="" class="img-fluid w-50" />
             </div>
             <div class="row">
-                <p class="text-white text-justify p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet adipisci veniam tenetur in, pariatur, excepturi dolorem esse eum quisquam laboriosam, distinctio vitae dolore! Unde laudantium consequuntur architecto, quisquam iure eos!</p>
+                <p class="text-white text-justify p-4">A nossa missão é sermos conhecidos e reconhecidos pela nossa liderança no setor marítimo, por oferecer um serviço de qualidade e eficaz.<br>
+                    Fornecendo assim um serviço seguro, de qualidade, responsável , renovando, inovando e adaptando os nossos serviços para a procura do mercado.<br>
+                    A nossa experiência permitiu-nos estabelecer valores que no dia a dia nos ajudam a prestar um excelente serviço aos nossos clientes. Visando a satisfação de todos.
+                </p>
             </div>
         </div>
         <div class="col-md-4 bg-dark">
@@ -56,7 +59,7 @@ require('header.php');
                 <img src="img/svg/visao.svg" alt="" class="img-fluid w-50" />
             </div>
             <div class="row">
-                <p class="text-white text-justify p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet adipisci veniam tenetur in, pariatur, excepturi dolorem esse eum quisquam laboriosam, distinctio vitae dolore! Unde laudantium consequuntur architecto, quisquam iure eos!</p>
+                <p class="text-white text-justify p-4">Tornar-se uma empresa com referência no âmbito marítimo, alcançando o reconhecimento de nossos clientes, pela excelência do serviços prestados, com serviço de qualidade e uma equipe qualificada.</p>
             </div>
         </div>
         <div class="col-md-4 bg-dark">
@@ -67,7 +70,7 @@ require('header.php');
                 <img src="img/svg/valores.svg" alt="" class="img-fluid w-50" />
             </div>
             <div class="row">
-                <p class="text-white text-justify p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet adipisci veniam tenetur in, pariatur, excepturi dolorem esse eum quisquam laboriosam, distinctio vitae dolore! Unde laudantium consequuntur architecto, quisquam iure eos!</p>
+                <p class="text-white text-justify p-4">Tornar-se uma empresa com referência no âmbito marítimo, alcançando o reconhecimento de nossos clientes, pela excelência do serviços prestados, com serviço de qualidade e uma equipe qualificada.</p>
             </div>
         </div>
     </div>
