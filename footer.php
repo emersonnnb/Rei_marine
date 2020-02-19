@@ -65,7 +65,8 @@
                         <span>&copy; 2020 Empresa. Todos os direitos reservados.</span>
                     </div>
                     <div class="col-6 text-right">
-                        <span>Desenvolvido por Liv - Soluções Web.</span>
+                        <span>Desenvolvido por  </span> 
+                        <img src="img/liv2.png" width="15%">
                     </div>
                 </div>
             </div>

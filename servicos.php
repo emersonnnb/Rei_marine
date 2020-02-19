@@ -106,7 +106,7 @@ require('header.php');
           <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
         </div>
         <div class="row justify-content-md-end">
-          <p class=""><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
+          <p class=""><a class="btn btn-outline-info" href="#" role="button" data-toggle="modal" data-target=".bd-example-modal-lg">Saiba Mais &raquo;</a></p>
         </div>
       </div>
 
@@ -116,4 +116,5 @@ require('header.php');
 </div>
 <?php
 require('footer.php');
+include('modal.php');
 ?>
