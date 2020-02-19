@@ -44,7 +44,7 @@ require('header.php');
           <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
         </div>
         <div class="row justify-content-md-end">
-          <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
+          <p><a class="btn btn-outline-info" href="#" role="button" data-toggle="modal" data-target="#pescariaAvulsa">Saiba Mais &raquo;</a></p>
         </div>
       </div>
     </div>
@@ -57,14 +57,14 @@ require('header.php');
             <img src="img/svg/island-with-palm-trees.svg" alt="" class="" width="50">
           </div>
           <div class="col-sm-9 text-center">
-            <h4 class="servicostopicos m-0 mb-3">Passeis Turisticos</h4>
+            <h4 class="servicostopicos m-0 mb-3">Passeios Turisticos</h4>
           </div>
         </div>
         <div class="row">
           <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
         </div>
         <div class="row justify-content-md-end">
-          <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
+          <p><a class="btn btn-outline-info" href="#" role="button" data-toggle="modal" data-target="#passeiosTuristicos">Saiba Mais &raquo;</a></p>
         </div>
       </div>
 
@@ -85,7 +85,7 @@ require('header.php');
           <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
         </div>
         <div class="row justify-content-md-end">
-          <p><a class="btn btn-outline-info" href="#" role="button">Saiba Mais &raquo;</a></p>
+          <p><a class="btn btn-outline-info" href="#" role="button" data-toggle="modal" data-target="#aluguelBarcos">Saiba Mais &raquo;</a></p>
         </div>
       </div>
 
@@ -106,7 +106,7 @@ require('header.php');
           <p class="description text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi quisquam asperiores nesciunt voluptatem ex natus, laboriosam veritatis repellat culpa mollitia quas vel similique minima corporis cum possimus facilis optio! Nisi?</p>
         </div>
         <div class="row justify-content-md-end">
-          <p class=""><a class="btn btn-outline-info" href="#" role="button" data-toggle="modal" data-target=".bd-example-modal-lg">Saiba Mais &raquo;</a></p>
+          <p class=""><a class="btn btn-outline-info" role="button" data-toggle="modal" data-target="#festasEventos">Saiba Mais &raquo;</a></p>
         </div>
       </div>
 
